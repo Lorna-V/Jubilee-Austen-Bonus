@@ -116,3 +116,101 @@ header h2 {
 
 
 /****** Contact Styles ******/
+
+#contact {
+ background-color: #f9e9e9;   
+}
+
+#contact .content-wrapper {
+    padding: 110px 0;
+}
+
+#contact .contact-image {
+    float: left;
+    width: 600 px;
+}
+
+#contact #contact-image-jpg {
+    width: 500px;
+    height: 300px; 
+    border: solid 10px white;
+    margin: 0 50px;
+    box-sizing: border-box;
+}
+
+#contact .contact-info {
+    float: left;
+    width: 600px;
+    padding-left: 100px;
+    box-sizing: border-box;
+}
+
+#contact h2 {
+    font-family: 'Lora', serif;
+    font-size: 36px;
+    font-weight: 600;
+    margin: 30px 0;
+}
+
+#contact h3 {
+    font-family: 'Lora', serif;
+    font-size: 24px;
+    font-weight: 400px;
+    line-height: 36px;
+}
+
+#contact h3 #email-header {
+    margin: 0 0 5px 0;
+}
+
+
+#contact h3 #socials-header {
+    margin: 20px 0 5px 0;
+}
+
+#contact #envelope {
+    margin-right: 10px;
+}
+
+#contact #envelope {
+    margin-right: 10px;
+}
+
+#contact .contact-info a {
+    text-decoration: none; 
+    color: inherit;
+    font-size: 24px; 
+    line-height: 36px;
+}
+
+#contact ul { 
+    margin: 0px 0px;
+    padding: 0px 0px;
+}
+
+#contact li {
+    display: inline-block;
+}
+
+#contact ul img {
+    padding-right: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
