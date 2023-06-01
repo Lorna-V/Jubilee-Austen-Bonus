@@ -109,7 +109,7 @@ header h2 {
 }
 
 #skills p {
-    font-size: 20x;
+    font-size: 20px;
     line-height: 40px;
     text-align: left;
 }
@@ -127,7 +127,7 @@ header h2 {
 
 #contact .contact-image {
     float: left;
-    width: 600 px;
+    width: 600px;
 }
 
 #contact #contact-image-jpg {
@@ -155,7 +155,7 @@ header h2 {
 #contact h3 {
     font-family: 'Lora', serif;
     font-size: 24px;
-    font-weight: 400px;
+    font-weight: 400;
     line-height: 36px;
 }
 
