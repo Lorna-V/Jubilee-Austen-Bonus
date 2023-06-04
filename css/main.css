@@ -31,7 +31,7 @@ header h1 {
 }
 
 header nav {
-    width: 800px;;
+    width: 800px;
     float: right;
     text-align: right;
     padding: 75px 25px 75px 0;
@@ -39,7 +39,6 @@ header nav {
 
 header nav ul li {
     display: inline-block;
-    
 }
 
 header nav ul li a {
