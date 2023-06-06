@@ -45,7 +45,7 @@ header nav ul li a {
     color: #727172;
     font-size: 18px;
     text-transform: uppercase;
-    padding-left: 80px; 
+    padding-left: 50px; 
 }
 
 header h2 {
@@ -195,8 +195,52 @@ header h2 {
     padding-right: 40px;
 }
 
+/****** Projects Page Styles ******/
 
+/****** Projects Page Header Styles ******/
 
+header .projects-page {
+    background-color: #f9efef;
+}
+
+/****** Projects Page Projects Styles ******/
+
+#projects {
+    background-color: #f5f5f5f5;
+    text-align: center;
+}
+
+#projects .content-wrapper {
+    padding: 115px 0;
+}
+
+#projects .project-container {
+    float: left;
+    width: 300px;
+    padding: 0 50px;
+}
+
+#projects h2 {
+    font-family: 'Lora', serif;
+    font-size: 36px;
+    padding-bottom: 40px;
+}
+
+#projects .project-container img {
+    width: 100%;
+}
+
+#projects h3 {
+    font-size: 24px;
+    line-height: 36px;
+    margin: 30px 0 20px 0;
+}
+
+#projects p {
+    font-size: 20px;
+    line-height: 40px;
+    text-align: left;
+}
 
 
 
